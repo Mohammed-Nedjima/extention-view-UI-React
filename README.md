@@ -12,19 +12,18 @@ This is a solution to the [Browser extensions manager UI challenge on Frontend M
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.png)
-![](./screenshot-light.png)
+![](./design/screenshot.png)
+![](./design/screenshot-light.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://extention-view-ui-react.vercel.app/)
+- Solution URL: [Link](https://your-solution-url.com)
+- Live Site URL: [Vercel](https://extention-view-ui-react.vercel.app/)
 
 ## My process
 
