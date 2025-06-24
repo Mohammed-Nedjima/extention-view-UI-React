@@ -4,11 +4,6 @@ interface filterProps {
   onChange: (selected: number) => void;
 }
 const Filter: React.FC<filterProps> = ({ onChange }): JSX.Element => {
-  enum Filters {
-    All = "All",
-    Active = "Active",
-    Inactive = "Inactive"
-  }
   const buttons: { [key: number]: string } = {
     1: "All",
     2: "Active",

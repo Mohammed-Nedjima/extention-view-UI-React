@@ -1,4 +1,4 @@
-import React, { type JSX } from "react";
+import { type JSX } from "react";
 import { ModeToggle } from "./ui/mode-toggle";
 import logo from "../assets/images/logo.svg";
 import logoDark from "../assets/images/logo-dark.svg";
